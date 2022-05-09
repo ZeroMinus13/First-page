@@ -1,0 +1,29 @@
+.head1{
+    background-color: #1F2937;
+    color: white;
+    font-size: 20px;
+
+}
+
+
+.button1{
+    color:#3382F6;
+    padding:0.2em 1em
+}
+
+.head2{
+    font-size: 30px;
+    background-color: white;
+    color: black;
+}
+
+.head3{
+    background-color: #E5E7EB;
+    font-size: 38px;
+    font-style: italic;
+
+}
+.head4{
+    background-color: white;
+    color: white;
+}
